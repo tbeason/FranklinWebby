@@ -3,9 +3,20 @@
 ================================================================== */
 
 
-/* ==================================================================
-    FOOT / COPYRIGHT
-================================================================== */
+/* New way of prioritization */
+/* linked to <body id="bootstrap-overrides"> */
+#bootstrap-overrides h1 a {
+    text-decoration: none;
+    color: inherit;
+  }
+
+.fa {
+	color: black;
+}
+
+.fab {
+	color: black;
+}
 
 .page-foot {
     font-size: 80%;
