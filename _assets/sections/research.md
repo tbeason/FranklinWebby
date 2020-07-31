@@ -5,7 +5,7 @@
 ~~~
 
 @@font-weight-bold,mb-0 On Sources of Risk Premia in Representative Agent Models @@
-@@mb-0 with [David Schreindorfer](http://www.davidschreindorfer.com/). [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3452743) @@
+@@mb-0 with [David Schreindorfer](http://www.davidschreindorfer.com/). [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3452743) _R&R at the Journal of Political Economy_ @@
 We use options and return data to decompose unconditional risk premia
 into different parts of the return state space. In the data, the entire equity
 premium is attributable to monthly returns below -11.3%, but returns in the
@@ -24,6 +24,11 @@ representing \$675 billion in demand from 961 institutions between 2012 and 2016
 
 
 
+@@font-weight-bold,mb-0 Downside Risk and The Labor Share @@
+@@mb-0 _Job Market Paper_ @@
+Recent evidence suggests that stock market risk premia are largely driven by risks stemming from tail and co-tail events. I show that a well-known economic mechanism -- a countercyclical labor share -- produces downside co-tail risk between consumption and dividend growth rates. In addition to matching the standard macroeconomic moments targeted by similar consumption-based asset pricing models, the model reproduces the term structures of volatility and dependence asymmetries seen in the data.
+
+
 @@font-weight-bold,mb-0 Heterogeneity and Household Portfolio Choice @@
 
 
@@ -37,4 +42,4 @@ representing \$675 billion in demand from 961 institutions between 2012 and 2016
 @@mb-0 with Amit Sinha, Kelly Roos, & Philip Horvath.  _Chaos, Solitons, & Fractals_, 2019, 125, 13-16. [Publisher Link](http://www.sciencedirect.com/science/article/pii/S0960077919301705) @@
 We use kinetic Monte Carlo simulations to produce solutions of an agent-based, rate equation model of an informationally efficient, closed financial market. The simulations produce a crash in the market that is forewarned through the observation of a market instability from which the market temporarily recovers. The market remained in a quasi-stable state for a relatively large amount of time between the warning and the crash, raising the prospect that some mitigating action can be taken in time to avert the impending crash. This result has strong ramifications for the future of predicting calamitous market events, especially if some observable aspect of financial markets can be positively identified and associated with simulation parameters.
 
-<!-- ~~~ <br> ~~~ -->
+~~~ <br> ~~~
