@@ -7,7 +7,8 @@ My research interests include studying financial markets in the large and in the
 * Tail Risk
 * Macro-finance
 * Algorithmic Trading
+* Computational Finance
 
 I maintain a public Call For Papers [calendar](https://tbeason.com/financeconferences) that might interest you.
 
-My wife and I enjoy spending our free time entertaining our newborn son.
+My wife and I enjoy spending our free time entertaining our son and getting outside when we can.
