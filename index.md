@@ -1,5 +1,5 @@
 
-~~~ <br> ~~~
+\\
 
 @@container
 @@row
@@ -35,13 +35,13 @@ Arizona State University
 @@
 @@
 
-~~~ <br> ~~~
+\\
 
 
 
 
 {{insertmd _assets/sections/research.md}}
 
-~~~ <br> ~~~
+\\
 
 {{insertmd _assets/sections/software.md}}

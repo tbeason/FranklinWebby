@@ -37,7 +37,17 @@ representing \$675 billion in demand from 961 institutions between 2012 and 2016
 @@mb-0 Draft coming soon.@@
 I study the distributional properties of household risky shares, the fraction of their financial portfolio allocated to risky assets. Many proposed solutions to bring household life-cycle portfolio choice models in line with the average risky share, such as participation costs or differences in labor income risk profiles, fall far short of generating sufficient cross-sectional heterogeneity in portfolio allocations at nearly every point in the life-cycle. I discuss what might be done to overcome these shortcomings and the implications for investors.
 
-~~~ <br> ~~~
+
+
+
+@@font-weight-bold,mb-0 Analyzing the Risks to Retirement Wealth @@
+@@mb-0 Draft coming soon.@@
+Articles written in popular press about "this risk" and "that risk" to your retirement wealth are too numerous to count. I provide a clean, tractable way to analyze the risks to financial wealth at the time of retirement. The framework operates under minimal assumptions about the financial portfolio returns and does not require the use of Monte Carlo simulations or assumptions about investor risk preferences. I relate a number of oft-discussed risks, such as sequence-of-return risk, stock market crashes, and long-term underperformance, back to the fundamental concepts of risk and return, risk exposures, and diversification. I show how investors and practitioners alike can integrate the analysis into their optimization problems. A scenario analysis demonstrates the largest risks for different types of retirement savers.
+
+
+
+
+\\
 
 ~~~
 <h3 class="text-muted">Pre-PhD Work</h3>
@@ -47,4 +57,4 @@ I study the distributional properties of household risky shares, the fraction of
 @@mb-0 with Amit Sinha, Kelly Roos, & Philip Horvath.  _Chaos, Solitons, & Fractals_, 2019, 125, 13-16. [Publisher Link](http://www.sciencedirect.com/science/article/pii/S0960077919301705) @@
 We use kinetic Monte Carlo simulations to produce solutions of an agent-based, rate equation model of an informationally efficient, closed financial market. The simulations produce a crash in the market that is forewarned through the observation of a market instability from which the market temporarily recovers. The market remained in a quasi-stable state for a relatively large amount of time between the warning and the crash, raising the prospect that some mitigating action can be taken in time to avert the impending crash. This result has strong ramifications for the future of predicting calamitous market events, especially if some observable aspect of financial markets can be positively identified and associated with simulation parameters.
 
-~~~ <br> ~~~
+\\
