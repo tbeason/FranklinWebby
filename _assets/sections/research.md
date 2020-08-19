@@ -5,9 +5,10 @@
 ~~~
 
 
-@@font-weight-bold,mb-0 A Labor Share for Consumption-Based Asset Pricing @@
+@@font-weight-bold,mb-0 Consumption, Dividends, Labor Income, and Risk Premia @@
 @@mb-0 _Job Market Paper_ Draft coming soon.@@
-I provide a framework for making any discrete time representative agent consumption-based asset pricing model simultaneously consistent with a number of stylized facts about aggregate labor income growth, labor's share of consumption, and growth rates in stock market dividends. The modification is parsimonious in that it adds only 4 parameters which are directly tied to observable features of the labor share. Within the framework, the labor share becomes a priced risk factor. I showcase a simple consumption-based asset pricing model within the framework and contrast its behavior to the same model with an explicit process for dividend growth. In addition to matching the standard macroeconomic moments targeted by most consumption-based asset pricing models, the model reproduces the term structures of growth rate volatility and provides a partial explanation of recent evidence about asymmetric dependence between consumption and dividend growth rates.
+I provide a modification to the cash flow process which makes any discrete time representative agent consumption-based asset pricing model simultaneously consistent with a number of stylized facts about aggregate labor income growth, labor's share of consumption, and growth rates in stock market dividends. The modification is parsimonious in that it adds only 4 parameters which are directly tied to observable features of the labor share. When applied to existing leading asset pricing models, the modified models continue to match the commonly-targeted macroeconomic moments, but also reproduce the term structures of growth rate volatility, and of risk premia, and provide a partial explanation of recent evidence regarding asymmetric dependence between consumption and dividend growth rates.
+
 
 
 
@@ -35,14 +36,14 @@ representing \$675 billion in demand from 961 institutions between 2012 and 2016
 
 @@font-weight-bold,mb-0 Heterogeneity and Household Portfolio Choice @@
 @@mb-0 Draft coming soon.@@
-I study the distributional properties of household risky shares, the fraction of their financial portfolio allocated to risky assets. Many proposed solutions to bring household life-cycle portfolio choice models in line with the average risky share, such as participation costs or differences in labor income risk profiles, fall far short of generating sufficient cross-sectional heterogeneity in portfolio allocations at nearly every point in the life-cycle. I discuss what might be done to overcome these shortcomings and the implications for investors.
+I study the distributional properties of household risky shares, the fraction of their financial portfolio allocated to risky assets. Many proposed solutions to bring household life-cycle portfolio choice models in line with the average risky share, such as participation costs or differences in labor income risk profiles, fall far short of generating sufficient cross-sectional heterogeneity in portfolio allocations at nearly every point in the life-cycle.
 
 
 
 
-@@font-weight-bold,mb-0 Analyzing the Risks to Retirement Wealth @@
+@@font-weight-bold,mb-0 On Finite Horizon Investments and Their Risks @@
 @@mb-0 Draft coming soon.@@
-Articles written in popular press about "this risk" and "that risk" to your retirement wealth are too numerous to count. I provide a clean, tractable way to analyze the risks to financial wealth at the time of retirement. The framework operates under minimal assumptions about the financial portfolio returns and does not require the use of Monte Carlo simulations or assumptions about investor risk preferences. I relate a number of oft-discussed risks, such as sequence-of-return risk, stock market crashes, and long-term underperformance, back to the fundamental concepts of risk and return, risk exposures, and diversification. I show how investors and practitioners alike can integrate the analysis into their optimization problems. A scenario analysis demonstrates the largest risks for different types of retirement savers.
+I provide a clean, tractable way to evaluate the moments and risk exposures of future financial wealth. The analysis operates under minimal assumptions about the financial portfolio returns and does not require the use of Monte Carlo simulations or assumptions about investor risk preferences. Specific applications include saving for retirement or college expenses and participation in ESOPs.
 
 
 
