@@ -3,11 +3,15 @@
 
 My research interests include studying financial markets in the large and in the small. 
 
-- Asset Pricing
-- Tail Risk
-- Macro-finance
-- Algorithmic Trading
-- Computational Finance
+~~~
+<ul>
+<li>Asset Pricing</li>
+<li>Tail Risk</li>
+<li>Macrofinance</li>
+<li>Algorithmic Trading</li>
+<li>Computational Finance</li>
+</ul>
+~~~
 
 I maintain a public Call For Papers [calendar](https://tbeason.com/financeconferences) that might interest you.
 
