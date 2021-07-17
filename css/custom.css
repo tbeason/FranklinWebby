@@ -1,1 +1,1 @@
-@charset "utf-8"; #bootstrap-overrides h1 a{text-decoration:none;color:inherit}.fa{color:black}.fab{color:black}.page-foot{font-size:80%;font-family:Arial,serif;color:#a6a2a0;text-align:center;margin-top:6em;border-top:1px solid lightgrey;padding-top:2em;margin-bottom:4em}
+@charset "utf-8"; #main h1>a,#main h2>a,#main h3>a{color:inherit;text-decoration:none}.page-foot{font-size:80%;font-family:Arial,serif;color:#a6a2a0;text-align:center;margin-top:6em;border-top:1px solid lightgrey;padding-top:2em;margin-bottom:4em}ul li p{margin:0}.container{max-width:920px}
