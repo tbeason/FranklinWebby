@@ -1,4 +1,4 @@
-# Code
+## Code
 
 I am a proponent of open source software and transparent academic research. I am an active member of the [Julia](https://julialang.org/) community.
 
@@ -9,4 +9,7 @@ In addition to contributing to existing Julia packages, I maintain a number of p
  * [FinancialPortfolios.jl](https://github.com/tbeason/FinancialPortfolios.jl) -- convenience package for working with portfolios
  * [AsymmetricRisk.jl](https://github.com/tbeason/AsymmetricRisk.jl) -- implements a number of univariate and bivariate asymmetric risk measures (WIP)
 
-This website is also [open source](https://github.com/tbeason/tbeason.github.io).
+Find these and more on my GitHub profile. 
+~~~
+<a href="https://github.com/tbeason"><i class="bi bi-github" style="font-size: 1.5rem; color: black;" role="img" aria-label="GitHub"></i></a>
+~~~

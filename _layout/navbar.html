@@ -1,32 +1,30 @@
-<!-- <div class="container-xl"> -->
-    <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-        <a class="navbar-brand" href="/">Tyler Beason</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light">
+        <a class="navbar-brand" href="#">tbeason.com</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
         <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="collapsibleNavbar">
+        <div class="collapse navbar-collapse  justify-content-end" id="collapsibleNavbar">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" href="#research">Research</a>
+                    <a class="nav-link {{ispage index}}active{{end}}" href="/#" target="_self">About</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#code">Code</a>
+                    <a class="nav-link {{ispage research}}active{{end}}" href="/research/" target="_self">Research</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/assets/tbeason-cv.pdf">CV</a>
+                    <a class="nav-link {{ispage teaching}}active{{end}}" href="/teaching/" target="_self">Teaching</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link {{ispage code}}active{{end}}" href="/code/" target="_self">Code</a>
+                </li>
+                <!-- <li class="nav-item">
+                    <a class="nav-link" href="https://tbeason.com/CV/tbeason-cv.pdf">CV</a>
+                </li> -->
                 <li class="nav-item">
                     <a class="nav-link" href="https://tbeason.com/financeconferences">Conference Calendar</a>
                 </li>
-                <!-- <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Links</a>
-                    <div class="dropdown-menu">
-                        <a class="dropdown-item" href="https://tbeason.com/financeconferences">Conference Calendar</a>
-                        <a class="dropdown-item" href="#">COVID and the Economy</a>
-                        <a class="dropdown-item" href="#">Daily Random Stock</a>
-                    </div> 
-                </li> -->
             </ul>
         </div>  
     </nav>
-<!-- </div> -->
+</div>
